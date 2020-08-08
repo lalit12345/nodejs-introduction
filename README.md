@@ -1,6 +1,9 @@
 ### To run locally
 
-npm run dev
+1. Download and install node: https://nodejs.org/en/download/ 
+1. npm install
+1. npm run dev
+1. http://localhost:5000
 
 ### To deploy to heroku platform
 
