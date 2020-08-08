@@ -19,3 +19,6 @@ npm run dev
 12. `git push heroku master` - to push to heroku master
           This will push our application to heroku master, download all node-modules and deploy it
 13. `heroku open` - to run application on browser
+
+#### IDE used
+Visual Studio Code
